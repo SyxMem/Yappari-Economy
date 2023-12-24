@@ -58,10 +58,10 @@ Starting in 5 seconds...
 
 # Notes
 Ensure you have the necessary permissions to conduct tests on the specified target URL.
-Use responsibly and only on systems you have explicit permission to test.
+Use responsibly and only on systems you have explicit permission to test. either way i don't really care
 
 # Author
-Author: DepthSyx
+Author: RealSyferX
 
 # Disclaimer
 I'm not responsible if you put many 1 trillion threads and breaking your devices, if you blame me.. i point my finger at you and lmao.
