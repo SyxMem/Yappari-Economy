@@ -62,7 +62,7 @@ Use responsibly and only on systems you have explicit permission to test.
 Author: DepthSyx
 
 # Disclaimer
-I'm not responsible if you put many 1 trillion threads and breaking your devices, if you blame me.. i point my finger on you and lmao.
+I'm not responsible if you put many 1 trillion threads and breaking your devices, if you blame me.. i point my finger at you and lmao.
 
 # Support
 For any issues or inquiries, please contact the author: icantbelieveyouwanttomailmelmao@lol.com
